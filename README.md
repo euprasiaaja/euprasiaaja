@@ -1,28 +1,34 @@
-# Hi there 👋 
+### Hi there, I'm [Your Name] 👋
 
-<div align="center">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
-	<br>
-	<br>
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" align="right" />
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information Technology**. Passionate about learning new technologies and building awesome projects! 🚀
 
-<img src="party-furby.gif" align="right" width="60">
+- 🔭 Currently working on improving my coding skills
+- 🌱 Currently learning **Python, Java, JavaScript, PHP**
+- 📫 How to reach me: [Your Email] | [LinkedIn](your-linkedin-url) | [Instagram](your-instagram-url)
 
-<br>
+### 🛠 Tech Stack
 
-![](under-construction.gif)
+```yaml
+Languages: Python, Java, JavaScript, PHP
+Databases: MySQL, PostgreSQL
+Tools: Git, Docker, VS Code
+```
 
-<br>
+### 📊 GitHub Stats
 
-check out my latest app: [Supercharge](https://sindresorhus.com/supercharge) ![](hot.gif)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+</p>
 
-and my [latest blog post](https://sindresorhus.com/blog) ![](hot.gif)
+### 🌍 Let's Connect!
 
-<br>
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](your-linkedin-url)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=flat&logo=instagram)](your-instagram-url)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/your-username)
 
-![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
+---
 
-![](flames.gif)
+⭐️ From [Your Name](https://github.com/your-username)
