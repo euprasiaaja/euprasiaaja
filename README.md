@@ -1,6 +1,6 @@
 ### Hi there, I'm [Your Name] 👋
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" align="right" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right" />
 
 I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information Technology**. Passionate about learning new technologies and building awesome projects! 🚀
 
@@ -18,15 +18,16 @@ I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api username=euprasiaaja&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=euprasiaaja&theme=radical" />
 </p>
+
 
 ### 🌍 Let's Connect!
 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=flat&logo=instagram)](your-instagram-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/your-username)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=flat&logo=instagram)]([your-instagram-url](https://www.instagram.com/euprasiaasitumorang/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/your-euprasiaaja)
 
 ---
 
-⭐️ From [Your Name](https://github.com/your-username)
+⭐️ From [Euprasia](https://github.com/your-username)
