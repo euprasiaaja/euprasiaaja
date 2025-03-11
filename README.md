@@ -9,6 +9,12 @@ I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information 
 **
 - 📫 How to reach me: euprasiasitumorang@students.usu.ac.id
 
+---
+### 🌍 Let's Connect!
+
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=flat&logo=instagram)](https://www.instagram.com/euprasiaasitumorang/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/euprasiaaja)
+
 <!-- garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
@@ -31,11 +37,6 @@ I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information 
 <!-- garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
-
-### 🌍 Let's Connect!
-
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=flat&logo=instagram)](https://www.instagram.com/euprasiaasitumorang/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/euprasiaaja)
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
