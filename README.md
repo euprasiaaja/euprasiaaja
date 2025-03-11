@@ -42,7 +42,7 @@ I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information 
 <a href="https://github.com/euprasiaaja/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euprasiaaja&layout=compact&theme=tokyonight" /></a>
 
 <br/>
----
+
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
