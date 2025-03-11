@@ -1,4 +1,4 @@
-### Hi there, I'm Euprasia Enjelika Situmorang 👋
+<h1 align="center">Hi there, I'm Euprasia Enjelika Situmorang 👋 </h1>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right" />
 
@@ -29,5 +29,9 @@ I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/euprasiaaja)
 
 ---
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 
 ⭐️ From [Euprasia](https://github.com/your-username)
