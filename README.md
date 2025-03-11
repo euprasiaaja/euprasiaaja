@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Euprasia Enjelika Situmorang 👋
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" align="right" />
 
@@ -6,7 +6,7 @@ I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information 
 
 - 🔭 Currently working on improving my coding skills
 - 🌱 Currently learning **Python, Java, JavaScript, PHP**
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: euprasiasitumorang@students.usu.ac.id
 
 ### 🛠 Tech Stack
 
@@ -14,13 +14,6 @@ I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api username=euprasiaaja&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=euprasiaaja&theme=radical" />
-</p>
 
 
 ### 🌍 Let's Connect!
