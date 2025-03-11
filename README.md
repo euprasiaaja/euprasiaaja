@@ -29,6 +29,12 @@ I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/euprasiaaja)
 
 ---
+<h2> Github Stats </h2> 
+<a href="https://github.com/euprasiaaja/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euprasiaaja&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=euprasiaaja&theme=tokyonight" alt="euprasiaaja" />
+<br/>
+---
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
