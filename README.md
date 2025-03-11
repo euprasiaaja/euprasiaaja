@@ -1,4 +1,4 @@
-## Hi there 👋 
+# Hi there 👋 
 
 <div align="center">
 	<img src="welcome-header.gif" alt="welcome to my github profile">
@@ -6,18 +6,23 @@
 	<br>
 </div>
 
-I'am Euprasia Enjelika Situmorang
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
 
-<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100">
+<img src="party-furby.gif" align="right" width="60">
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="56" height="56" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="56" height="56" /></div>
+<br>
 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](under-construction.gif)
 
+<br>
+
+check out my latest app: [Supercharge](https://sindresorhus.com/supercharge) ![](hot.gif)
+
+and my [latest blog post](https://sindresorhus.com/blog) ![](hot.gif)
+
+<br>
+<br>
+
+![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
+
+![](flames.gif)
