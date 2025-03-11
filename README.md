@@ -1,6 +1,6 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Euprasia Enjelika Situmorang 👋
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" align="right" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right" />
 
 I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information Technology**. Passionate about learning new technologies and building awesome projects! 🚀
 
