@@ -25,7 +25,7 @@ I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information 
 
 ### 🌍 Let's Connect!
 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=flat&logo=instagram)]([your-instagram-url](https://www.instagram.com/euprasiaasitumorang/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=flat&logo=instagram)](https://www.instagram.com/euprasiaasitumorang/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/your-euprasiaaja)
 
 ---
