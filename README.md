@@ -8,6 +8,10 @@ I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information 
 - 🌱 Currently learning **Python, Java, JavaScript, PHP**
 - 📫 How to reach me: euprasiasitumorang@students.usu.ac.id
 
+<!-- garis -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End -->
+
 ### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,6 +19,9 @@ I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+<!-- garis -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End -->
 
 ### 🌍 Let's Connect!
 
