@@ -5,8 +5,7 @@
 I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information Technology**. Passionate about learning new technologies and building awesome projects! 🚀
 
 - 🔭 Currently working on improving my coding skills
-- 🌱 Currently learning **Programming, Web Development, Databases, UI/UX, and Software Engineering**  
-**
+- 🌱 Currently learning **Programming, Web Development, Databases, UI/UX, and Software Engineering**
 - 📫 How to reach me: euprasiasitumorang@students.usu.ac.id
 
 
