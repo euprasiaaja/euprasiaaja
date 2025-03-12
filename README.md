@@ -9,16 +9,14 @@ I'm a student at **Universitas Sumatera Utara (USU)** majoring in **Information 
 **
 - 📫 How to reach me: euprasiasitumorang@students.usu.ac.id
 
----
-### 🌍 Let's Connect!
 
+### 🌍 Let's Connect!
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=flat&logo=instagram)](https://www.instagram.com/euprasiaasitumorang/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/euprasiaaja)
 
 <!-- garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
-
 ### 🛠 Tech Stack
 
 <p align="center">
